@@ -57,8 +57,8 @@
 ➡ 50-dars. Internetga yuklash.<br>
 ### 5-bo’lim. Django asoslari. 15 ta dars
 ➡ 51-dars. HTML haqida tushuncha. Asosiy teglar.<br>
-➡ 52-dars. CSS asoslari. 1-qism.<br>
-➡ 53-dars. CSS asoslari. 2-qism.<br>
+➡ 52-dars. CSS asoslari.<br>
+➡ 53-dars. Bootstrap asoslari.<br>
 ➡ 54-dars. Django frameworkiga kirish. Asosiy loyiha va fayllar.<br>
 ➡ 55-dars. Django-app dan foydalanish.<br>
 ➡ 56-dars. Jinja shablonizator va HTML shablonlar.<br>
