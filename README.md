@@ -80,3 +80,7 @@
 ➡ Django REST Framework<br>
 ➡ ...<br>
 ➡ ...<br>
+
+## Xurmatli yangi dasturchilar. Dasturlashni o'rganish bilan bir qatorda Ingliz tili va Rus tilini ham o'rganishingizni tavsiya qilaman. Chunki, O'zbek tilidagi ma'lumotlardan ko'ra, Rus yoki Ingliz tilida materiallar bir qancha ko'p. Undan tashqari qandaydir muammoga duch kelganingizda qidiruv tizimlari orqali ushbu muammoga yechim topishingiz uchun ham Ingliz tilida (hech bo'lmaganda) so'zlarni tushunish va qidira olish qobiliyatingiz bo'lishi kerak.
+
+## Xurmat bilan Ozodbek Sobirjonovich!
