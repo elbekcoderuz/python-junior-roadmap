@@ -1,4 +1,4 @@
-### Python Junior dasturchi bo'lish uchun 5 oylik dasturlash kursi dars rejasi.
+### 2023 yil - Python Junior dasturchi bo'lish uchun 5 oylik dasturlash kursi dars rejasi.
 #### Darslar soni: 65-70 ta darslar.
 
 ### 1-bo’lim. Python asoslari va OOP. 18 ta dars.
@@ -77,5 +77,6 @@
 ➡ Unit Testing<br>
 ➡ Git, Github<br>
 ➡ Docker<br>
+➡ Django REST Framework<br>
 ➡ ...<br>
 ➡ ...<br>
